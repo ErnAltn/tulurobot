@@ -56,7 +56,7 @@ const AboutPreview = () => {
           >
             <div className="aspect-video rounded-xl overflow-hidden">
               <img 
-                src="public\tulufabrika1.png" 
+                src="/tulufabrika1.png" 
                 alt="TULU ROBOT endüstriyel robotik sistemleri ve otomasyon teknolojileri" 
                 className="w-full h-full object-cover"
                 loading="lazy"
