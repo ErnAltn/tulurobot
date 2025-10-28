@@ -1,0 +1,35 @@
+name: 🚀 Deploy React/Vite App to cPanel via FTP
+
+on:
+  push:
+    branches:
+      - main  
+
+jobs:
+  build_and_deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 📥 Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: ⚙️ Setup Node.js 22.20.0
+        uses: actions/setup-node@v3
+        with:
+          node-version: 22.20.0
+
+      - name: 📦 Install Dependencies
+        run: npm ci
+
+      - name: 🏗️ Build Project
+        run: npm run build
+
+
+      - name: 🚀 Deploy via FTP to cPanel
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+        with:
+          server: ftp.tulurobot.com
+          username: erendev@tulurobot.com
+          password: ${{ secrets.FTP_KEY }}
+          local-dir: ./dist/
+          server-dir: /public_html/

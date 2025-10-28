@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <!-- Homepage -->
+  <url>
+    <loc>https://tulurobot.com/</loc>
+    <lastmod>2024-01-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://tulurobot.com/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://tulurobot.com/?lang=en" />
+  </url>
+  
+  <!-- About Page -->
+  <url>
+    <loc>https://tulurobot.com/about</loc>
+    <lastmod>2024-01-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://tulurobot.com/about" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://tulurobot.com/about?lang=en" />
+  </url>
+  
+  <!-- Solutions Page -->
+  <url>
+    <loc>https://tulurobot.com/solutions</loc>
+    <lastmod>2024-01-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://tulurobot.com/solutions" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://tulurobot.com/solutions?lang=en" />
+  </url>
+  
+  <!-- Pick & Place Page -->
+  <url>
+    <loc>https://tulurobot.com/pickplace</loc>
+    <lastmod>2024-01-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://tulurobot.com/pickplace" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://tulurobot.com/pickplace?lang=en" />
+  </url>
+  
+  <!-- Palletizer Page -->
+  <url>
+    <loc>https://tulurobot.com/palletizer</loc>
+    <lastmod>2024-01-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://tulurobot.com/palletizer" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://tulurobot.com/palletizer?lang=en" />
+  </url>
+  
+  <!-- End Line Solutions Page -->
+  <url>
+    <loc>https://tulurobot.com/endline</loc>
+    <lastmod>2024-01-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://tulurobot.com/endline" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://tulurobot.com/endline?lang=en" />
+  </url>
+  
+  <!-- Image Processing Page -->
+  <url>
+    <loc>https://tulurobot.com/imageprocessing</loc>
+    <lastmod>2024-01-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://tulurobot.com/imageprocessing" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://tulurobot.com/imageprocessing?lang=en" />
+  </url>
+  
+  <!-- Contact Page -->
+  <url>
+    <loc>https://tulurobot.com/contact</loc>
+    <lastmod>2024-01-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://tulurobot.com/contact" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://tulurobot.com/contact?lang=en" />
+  </url>
+  
+</urlset>
