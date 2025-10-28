@@ -17,7 +17,7 @@ const HeroSection = () => {
     muted
     playsInline
   >
-    <source src="public/Sequence_02_2.mp4" type="video/mp4" />
+    <source src="/Sequence_02_2.mp4" type="video/mp4" />
   </video>
 
   {/* Video üzerine siyah transparan overlay - saydamlık oranını değiştirmek için bg-opacity değerini değiştirin */}
